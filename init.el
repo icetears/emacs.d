@@ -171,7 +171,9 @@
 ;;----------------------------------------------------------------------------
 (require 'init-local nil t)
 
-
+(require 'init-evil)
+(require 'init-go)
+(require 'init-speedbar)
 
 (provide 'init)
 
